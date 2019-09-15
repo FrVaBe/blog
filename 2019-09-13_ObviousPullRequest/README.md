@@ -15,7 +15,7 @@ At that moment I took care of it.
 Why shouldn't I draw someone's attention to it so that the error can be corrected?
 Such errors annoy me myself and I can also imagine that the author of the documentary is happy to be made aware of such errors. 
 
-Said & done. I know that Spring Data people listen to Twitter and first "reported" the bug there. My idea was that a maintainer just makes the necessary commit quickly and the job is done.
+Said & done. I know that [Spring Data](https://twitter.com/SpringData) people listen to Twitter and first "reported" the bug there. My idea was that a maintainer just makes the necessary commit quickly and the job is done.
 
 <a href="https://twitter.com/FrVaBe/status/1171451198081122306">![FrVaBe tweet](img/FrVaBeIssueTweet.png)</a>
 
