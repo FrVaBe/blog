@@ -79,6 +79,7 @@ Getting in touch with people is sometimes difficult and I don't do it easily mys
 Many of the people mentioned here have already visited and presented at [EuregJUG](http://www.euregjug.eu/), for example.
 Take the opportunity to visit a JUG or a Meetup near you if you feel like making new contacts. It can be worth it.
 
+**Edit:** Thanks to [Josh Long](https://twitter.com/starbuxman) for mentioning this little post in [This Week in Spring - September 24th, 2019](https://spring.io/blog/2019/09/24/this-week-in-spring-september-24th-2019)
 
 
 
