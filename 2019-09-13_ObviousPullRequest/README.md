@@ -21,7 +21,7 @@ Said & done. I know that [Spring Data](https://twitter.com/SpringData) people li
 
 As feared, I was advised to provide a pull request for the fix. So the reporting would bit more complex than I thought but I prepared the pull request. Because the fix was so trivial I could do it completely in the GitHub user interface. In the pull request description template I got the hint that there should be a corresponding Jira Ticket. Pooh,...
 
-Spring Jira; I once have already registered myself but the old logon data which I could remeber, did not work any more. Attempts to restore the account failed and I finally created a new account and open the JIRA ticket [DATAMONGO-2361](https://jira.spring.io/browse/DATAMONGO-2361).
+Spring Jira; I once have already registered myself but the old logon data which I could remember, did not work any more. Attempts to restore the account failed and I finally created a new account and open the JIRA ticket [DATAMONGO-2361](https://jira.spring.io/browse/DATAMONGO-2361).
 
 Back to GitHub I noticed that the Spring Data MongoDB branches all follow the naming convention _'issue/DATAMONGO-xyz'_ and therefore I created a new branch also following this convention. And finally the pull-request was set up:
 
