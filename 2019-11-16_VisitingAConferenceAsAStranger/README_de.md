@@ -81,7 +81,7 @@ So konnte ich mir auch ein Selfie mit einigen Rockstars sichern (das mit den Sel
 
 <p align="middle"><img src="img/SelfieMitRockstars.jpg" alt="Selfie with rockstars"/></p>
 
-## Twitter verfolgen
+## 5. Twitter verfolgen
 
 Der Twitter Stream zur W-JAX ist übersichtlich, aber interessant. 
 
@@ -93,7 +93,7 @@ Außerdem habe ich gesehen, dass Jeremis Werner ([@JereWerner](https://twitter.c
 Habe kurz sein Profil gecheckt (da ich ihn nicht kannte) und gesehen, dass er im Bereich Kubernetes und Knative unterwegs ist und mich daraufhin auch mit ihm in der Pause verabredet (siehe [Tweet](ttps://twitter.com/FrVaBe/status/1191846146400018435)).
 Auch hier ein netter kleiner Talk bei dem ich was gelernt habe.
 
-## an andere denken
+## 6. an andere denken
 
 Manchmal sieht man Sachen und verbindet sie direkt mit anderen Leuten.
 So war es bei mir als ich am Sonatype Stand ein T-Shirt geschenkt bekam.
@@ -109,7 +109,7 @@ Es war klar, dass er sich auch über so ein Shirt freuen würde, also habe ich m
 Auch hier gab es also einen unerwarteten Anknüpfungspunkt über eine kleine Interaktion.
 Und die Übergabe des T-Shirts steht auch noch aus...
 
-## Smalltalk mit Fremden
+## 7. Smalltalk mit Fremden
 
 Man sollte meinen, dass es einfach ist mit Fremden in den Smalltalk zu kommen, vor allem weil man in den Pausen i.d.R. an Stehtischen zusammen zum Essen steht.
 Aber in der Tat klappte das bei mir überhaupt nicht.
