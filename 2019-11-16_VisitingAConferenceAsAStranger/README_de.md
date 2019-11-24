@@ -116,7 +116,7 @@ Aber in der Tat klappte das bei mir überhaupt nicht.
 Entweder unterhalten sich schon Leute die sich kennen oder andere sind mit sich selbst oder dem Smartphone beschäftigt.
 Das ist kein Vorwurf, nur eine Beobachtung.
 Aus meiner Sicht kann man sich auf jeden Fall nicht darauf verlassen in diesen Situationen ins Gespräch zu kommen.
-Ich für meinen Teil werde künftig zumindest versuchen aufmerksam zu sein, on jemand zumindest an Kommunikation interessiert ist.
+Ich für meinen Teil werde künftig zumindest versuchen aufmerksam zu sein, ob jemand an Kommunikation interessiert ist oder sie sucht.
 
 ## Fazit
 
