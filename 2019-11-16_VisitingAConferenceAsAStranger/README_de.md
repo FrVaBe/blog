@@ -90,7 +90,7 @@ Das Thema fand ich spannend und wir haben uns zu einem Pausen-Talk verabredet (s
 Das war großartig.
 
 Außerdem habe ich gesehen, dass Jeremis Werner ([@JereWerner](https://twitter.com/JereWerner)) sein Kommen auf der W-JAX per Twitter angekündigt hat.
-Habe kurz sein Profil gecheckt (da ich ihn nicht kannte) und gesehen, dass er im Bereich Kubernetes und Knative unterwegs ist und mich daraufhin auch mit ihm in der Pause verabredet (siehe [Tweet](ttps://twitter.com/FrVaBe/status/1191846146400018435)).
+Habe kurz sein Profil gecheckt (da ich ihn nicht kannte) und gesehen, dass er im Bereich Kubernetes und Knative unterwegs ist und mich daraufhin auch mit ihm in der Pause verabredet (siehe [Tweet](https://twitter.com/FrVaBe/status/1191846146400018435)).
 Auch hier ein netter kleiner Talk bei dem ich was gelernt habe.
 
 ## 6. an andere denken
