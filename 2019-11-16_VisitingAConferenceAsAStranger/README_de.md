@@ -12,7 +12,7 @@ Die W-JAX mit dem recht breiten Themenspektrum bietet da für mich eine Vielzahl
 Allen voran sind da natürlich die Vorträge und Ausstellungen. Aber zwischen den Vorträgen gibt es eine Menge Zeit. 
 Wenn man niemanden kennt und auch selbst nicht bekannt ist, kann man sich da ganz schön alleine fühlen.
 
-Die Pausenzeit ist aber einfach zu schade um sie einfach verstreichen zu lassen.
+Die Pausenzeit ist aber zu schade um sie einfach verstreichen zu lassen.
 Gerade Konferenzen bieten viel Raum zum Netzwerken der genutzt werden möchte, aber wie?
 
 Ich stelle hier mal ein paar Möglichkeiten vor die ich dieses Jahr genutzt habe. 
