@@ -2,7 +2,7 @@
 
 ## 2021
 * 2021-03-01  
-  [Focus](2021-03-01_Focus\README.md)
+  [Focus](2021-03-01_Focus/README.md)
 ## 2019
 * 2019-11-22  
   [Eine Konferenz als Fremder besuchen (de)](2019-11-16_VisitingAConferenceAsAStranger)
